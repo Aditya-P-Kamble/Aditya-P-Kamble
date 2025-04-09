@@ -1,4 +1,4 @@
-## Hi. I am Aditya.
+## Hi.
 
 <!--
 **Aditya-P-Kamble/Aditya-P-Kamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
